@@ -1,0 +1,2 @@
+# Weather
+Weather Detection Page
