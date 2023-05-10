@@ -5,7 +5,8 @@
 }
 body {
   font-family: "Outfit", sans-serif;
-  background-image: url("	https://images3.alphacoders.com/109/1091500.jpg");
+/*   background-image: url("	https://images3.alphacoders.com/109/1091500.jpg"); */
+    background-image: url(weath.jpg);
   background-size: cover;
   background-position: top center;
 }
